@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biblioteca_Video_", "Biblioteca_Video_.vcxproj", "{8C54CF66-DA04-4543-8690-1A3537E76060}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF83B266-B20A-4225-A1DD-B8B5F14C3208}"
+	ProjectSection(SolutionItems) = preProject
+		Dislike.txt = Dislike.txt
+		Favourite_list.in = Favourite_list.in
+		temp.txt = temp.txt
+		Visualization.txt = Visualization.txt
+		Watch_list.txt = Watch_list.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Debug|x64.ActiveCfg = Debug|x64
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Debug|x64.Build.0 = Debug|x64
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Debug|x86.Build.0 = Debug|Win32
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Release|x64.ActiveCfg = Release|x64
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Release|x64.Build.0 = Release|x64
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Release|x86.ActiveCfg = Release|Win32
+		{8C54CF66-DA04-4543-8690-1A3537E76060}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930DCABD-52E4-4D87-A272-21904EC15FF3}
+	EndGlobalSection
+EndGlobal

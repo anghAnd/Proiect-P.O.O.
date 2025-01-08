@@ -1,0 +1,6 @@
+﻿  Movie.cpp
+C:\Users\MSI\Desktop\Biblioteca_Video_\Movie.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Series.cpp
+C:\Users\MSI\Desktop\Biblioteca_Video_\Series.cpp(15,26): warning C4101: 'tempRATE': unreferenced local variable
+  Generating Code...
+  Biblioteca_Video_.vcxproj -> C:\Users\MSI\Desktop\Biblioteca_Video_\x64\Debug\Biblioteca_Video_.exe
